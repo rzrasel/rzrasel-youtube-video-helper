@@ -1,10 +1,12 @@
-# youtube-font-video-background-video-cover-art-template
+# rzrasel-youtube-video-helper
+Rz Rasel Youtube Video Helper
+
 Youtube Font Video Background Video Cover Art Template
 
 ### GIT Command
 ```git_command
 git init
-git remote add origin https://github.com/rzrasel/youtube-font-video-background-video-cover-art-template.git
+git remote add origin https://github.com/rzrasel/rzrasel-youtube-video-helper.git
 git remote -v
 git fetch && git checkout master
 git add .
@@ -20,7 +22,7 @@ git push --delete origin tagname
 git push --delete origin 1.0.1
 
 // Set Remote Url
-git remote set-url origin https://github.com/rzrasel/youtube-font-video-background-video-cover-art-template.git
+git remote set-url origin https://github.com/rzrasel/rzrasel-youtube-video-helper.git
 ```
 
 ### Pdf Tutorial
